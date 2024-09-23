@@ -12,7 +12,7 @@ This repository contains API tests implemented using [Karate](https://github.com
 ## Prerequisites
 - Java 8 or higher
 - Maven 3.6.0 or higher (optional if using standalone Karate JAR)
-- An IDE like IntelliJ IDEA or Eclipse (optional)
+- An IDE like IntelliJ IDEA 
 
 ## Getting Started
 
