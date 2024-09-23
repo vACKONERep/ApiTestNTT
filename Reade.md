@@ -18,5 +18,5 @@ This repository contains API tests implemented using [Karate](https://github.com
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/vACKONERep/ApiTestNTT.git
+
