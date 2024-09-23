@@ -19,4 +19,9 @@ This repository contains API tests implemented using [Karate](https://github.com
 ### Clone the Repository
 ```bash
 git clone https://github.com/vACKONERep/ApiTestNTT.git
-
+2. Navigate to the project directory:
+   cd test/java/pets/PetsRunner.java
+3. Build the project using Gradle:
+   ./gradlew build
+4. Navifate to the report html file:
+    cd build/reports/tests/test/index.html
